@@ -1,0 +1,1 @@
+**This apk file contains the first AR game I made with the Vuforia package in Unity. When I was an intern at NaraXR , we developed this game with my teammate and presented it to the company. You can download our game and try it!**
